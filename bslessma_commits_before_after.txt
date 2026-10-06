@@ -1,0 +1,207 @@
+Processing project: intelowlproject_intelowl
+Before commits for project intelowlproject_intelowl: 
+Series([], Name: message, dtype: object)
+
+After commits for project intelowlproject_intelowl: 
+Series([], Name: message, dtype: object)
+
+
+Processing project: intellistream_alliancedb
+Before commits for project intellistream_alliancedb: 
+11380                                      Update readme\n
+11542                                    update headers.\n
+11758                       Add a new q implementation\n\n
+11274                                  Add docker file\n\n
+11900                               Change nthread = 4\n\n
+11470                         Change algo to SHJ_HS_NP\n\n
+11123    Merge remote-tracking branch 'origin/master' i...
+12029    Add Doc (#15)\n\n* Add docs\r\n\r\n* Correct d...
+11534                                 Correct doc path\n\n
+11748    Revert "Add docs (#13)"\n\nThis reverts commit...
+Name: message, dtype: object
+
+After commits for project intellistream_alliancedb: 
+11655                                       Create LICENSE
+11406    1. change into time-based window\n2. abstract ...
+11669                             Create LICENSE (#24)\n\n
+11957                        1. Add some doxgen template\n
+11650                        1. Add some doxgen template\n
+11038                        1. Add some doxgen template\n
+11838                        1. Add some doxgen template\n
+11303                            1. Change the readme.md\n
+11800                            1. Change the readme.md\n
+11387                            1. Change the readme.md\n
+Name: message, dtype: object
+
+
+Processing project: yesint_pteros
+Before commits for project yesint_pteros: 
+12071                         Forced gromacs without mpi\n
+12573    Merge branch 'main' of https://github.com/yesi...
+12997              Minor formatting and typo corrections\n
+12248    Merge branch 'main' of https://github.com/yesi...
+13066                     Added lib64/pteros to pterosrc\n
+12213                   Symplified JumpRemover interface\n
+13457    Dropped argparse dependence.\nSo far there is ...
+12921    System dependences are now handled by CPM\nCus...
+12816           Merge branch 'refs/heads/packageproject'\n
+12352                     Fix for TNG compile definition\n
+Name: message, dtype: object
+
+After commits for project yesint_pteros: 
+12378    Disabled subset optimization for AND selection...
+12336    Disabled selection AST optimization to fix bug...
+12487                       Fixed compilation with clang\n
+12975                                  Fixed compilation\n
+12715               Update README.md\n\nDeprecation notice
+Name: message, dtype: object
+
+
+Processing project: cvnlab_analyzeprf
+Before commits for project cvnlab_analyzeprf: 
+13595                          add some helpful comments\n
+13532     minor bug fix regarding xval and boot indexing\n
+13630                                     Update README.md
+13565    the case of non-square stimulus preparations w...
+13583                  implement new option <wantsparse>\n
+13625                     remove the enforcement of full\n
+13584                                tweak documentation\n
+13598    make <seedmode> a required input; implement ne...
+13531                         slight documentation tweak\n
+13632    enforce good typicalgain (NaN) for the special...
+Name: message, dtype: object
+
+After commits for project cvnlab_analyzeprf: 
+13559    fix bug where first run in <m> would propagate...
+13618    change implementation to avoid projectionmatrix\n
+Name: message, dtype: object
+
+
+Processing project: simonfuhrmann_mve
+Before commits for project simonfuhrmann_mve: 
+14059                  Fix endian code for M1 processors\n
+15072    Update README.md\n\nRemove dead link, move som...
+15416                     MATH: Fix warning with RowIter\n
+13866                Fix bug introduced in previous push\n
+15123          Use int64 for image width/height/channels\n
+14070      MVE: Use default constructors in image_base.h\n
+14802    Change deprecated uint32 and uint16 types to _...
+15044     Check extensions before loading images/headers\n
+14144                              [ci] travis for cmake\n
+14136                              [ci] travis for cmake\n
+Name: message, dtype: object
+
+After commits for project simonfuhrmann_mve: 
+14111    SFM: Guard inclusion of SSE headers\n\nFixes c...
+15323    SFM: Guard inclusion of SSE headers (#573)\n\n...
+15453                 Update README.md (formatting only)\n
+14592             Updates to README.md (formatting only)\n
+14041    Rename util/strings.h to util/string_utils.h\n...
+15341    Use pkg-config to link against gtest/libjpeg/l...
+13843    Silence OpenGL deprecation warnings on macOS\n...
+14084    Raise C++ version to C++14\n\nGoogleTest requi...
+14182    TESTS: Make TestHaarWaveletsLargerKernel more ...
+14123    UTIL: Add workaround for libc++ for util::stri...
+Name: message, dtype: object
+
+
+Processing project: great-expectations_great_expectations
+Before commits for project great-expectations_great_expectations: 
+Series([], Name: message, dtype: object)
+
+After commits for project great-expectations_great_expectations: 
+Series([], Name: message, dtype: object)
+
+
+Processing project: google_grr
+Before commits for project google_grr: 
+116872    Initial commit.\n
+Name: message, dtype: object
+
+After commits for project google_grr: 
+116756                       Preodic sync to google code.\n
+115273                  Add initial cut of documentation.\n
+115280         Add user manual and further documentation.\n
+117334                            Updated the user guide.\n
+116869      Added screenshots for the updated user guide.\n
+117656    Updated the user guide with more Flow informat...
+116210           Added new screenshots to the user guide.\n
+116977                           Update to alpha release.\n
+117403                           Regenerate documentation\n
+118006    Bugfixes and improved deployment helpers for r...
+Name: message, dtype: object
+
+
+Processing project: projectcypress_cypress
+Before commits for project projectcypress_cypress: 
+124554    Fix for mongodb error when test_executions col...
+125121    make smoking gun and data criteria validations...
+125251                             Merge branch 'develop'\n
+124732                          bump version number 2.4.2\n
+124326    updating data criteira test to be an error ist...
+123959    Merge pull request #41 from ssayer/develop\n\n...
+118764                                bump version number\n
+118865                               merging from develop\n
+124590    rolling back smoking gun functionality to 2.3 ...
+121195    removing pry-debugger to try and make travis h...
+Name: message, dtype: object
+
+After commits for project projectcypress_cypress: 
+119260    Made a bunch of minor spelling corrections in ...
+125781    Added fragment caching for patient index and s...
+125986    Updated verbiage in smoking_gun_validator to b...
+123471    Added an encoding coercion from ASCII-8bit to ...
+122501    Merge pull request #48 from okeefm/non_ascii_c...
+119168    Merge pull request #46 from okeefm/fragment_ca...
+119485    Created a test for the uploading of files with...
+121452                      Updated travis to Rails 2.1.2\n
+118873    make smoking gun and data criteria validations...
+123442    Updated a number of necessary config files for...
+Name: message, dtype: object
+
+
+Processing project: hyperhdg_hyperhdg
+Before commits for project hyperhdg_hyperhdg: 
+127302                               Fix advection.\n
+127682                     Add badge to manuscript.\n
+128166                     Add badge to manuscript.\n
+127036                     Add badge to manuscript.\n
+128110                          Remove hy_config.py\n
+127853                   Remove redundant OMP libs.\n
+127666                         Update clang-format.\n
+128095    Update doxygen, CMake, and setup scripts.\n
+128410                   Use matrix for everything.\n
+127915                       Try setting OS as env.\n
+Name: message, dtype: object
+
+After commits for project hyperhdg_hyperhdg: 
+128335                        More polynomials for movie.\n
+127856     Updating and formatting for manuscript (#94)\n\n
+128600                                   Base case added.\n
+128187                                   L shape level 1.\n
+127590          Added files for thinning L-shaped domains\n
+128040                Turn level into template parameter.\n
+127923    Implemented 2D plus-shaped domains, modified L...
+126945                              Re-formatting test...\n
+128032                         Add first numerical tests.\n
+127407               Build full matrix for fiber network.\n
+Name: message, dtype: object
+
+
+Processing project: mit-spark_teaser-plusplus
+Before commits for project mit-spark_teaser-plusplus: 
+129212    Initial commit
+Name: message, dtype: object
+
+After commits for project mit-spark_teaser-plusplus: 
+129120                                  v1.0.0 release \n\n
+129357                                      Add MIT license
+129150                                  Update references\n
+129327                                      Update README\n
+129090                                           Fix typo\n
+129136                Fix python binding README & example\n
+129168                                  Update references\n
+129259                                 Minor citation fix\n
+129103     Fix scaling parameter in python README example\n
+129105    Update CMake files to use lowercase for projec...
+Name: message, dtype: object

@@ -1,0 +1,243 @@
+pre/post,project,commit,author,time,message
+pre,intellistream_alliancedb,509b1e4fb642ebaeeb91ff85aa19bd4ba8c7cdce,Mao Yancan <maoyancan@u.nus.edu>,2021-10-17 03:01:47,Update readme
+pre,intellistream_alliancedb,7a84a25743dedb3ca496c90d2c9afa6ca7217fd4,Shuhao Zhang <tonyzhang19900609@gmail.com>,2021-09-01 08:08:41,update headers.
+pre,intellistream_alliancedb,b2434f31b66b25d38c9941e37b3f956165613453,James Nolan <vip17jamesnolan@gmail.com>,2021-08-25 03:56:56,Add a new q implementation
+pre,intellistream_alliancedb,38699c8a3d4abdef7d03e8cded2e6570dc20bc4f,James Nolan <vip17jamesnolan@gmail.com>,2021-08-18 16:06:16,Add docker file
+pre,intellistream_alliancedb,d79b42d52380b0da07136e68cff0876ec4ff1ec1,James Nolan <vip17jamesnolan@gmail.com>,2021-08-18 16:06:02,Change nthread = 4
+pre,intellistream_alliancedb,675fbe278ac8636bc57dfb883ba7f458fc1789de,James Nolan <vip17jamesnolan@gmail.com>,2021-08-18 15:54:48,Change algo to SHJ_HS_NP
+pre,intellistream_alliancedb,15568f41517e68d6fa060477598650f1cd4e5c3b,James Nolan <vip17jamesnolan@gmail.com>,2021-08-18 15:00:44,Merge remote-tracking branch 'origin/master' into feature/shuffler-Q
+pre,intellistream_alliancedb,fea9c51bb93a9362522be8b82c125cd7b0067682,James Nolan W <61568403+JamesNolan17@users.noreply.github.com>,2021-08-18 14:59:48,"Add Doc (#15)
+
+* Add docs
+
+* Correct doc path"
+pre,intellistream_alliancedb,786d30f8e1c6e7828a506939dfcff2c69ca572af,James Nolan <vip17jamesnolan@gmail.com>,2021-08-18 14:56:12,Correct doc path
+pre,intellistream_alliancedb,b0d742c957c7fff05d9835bf9618d3fb10383b51,James Nolan W <61568403+JamesNolan17@users.noreply.github.com>,2021-08-18 14:54:51,"Revert ""Add docs (#13)""
+
+This reverts commit 1de9636cec509cb8a4ae2a827133d71957bcbce3."
+post,intellistream_alliancedb,9979124b147923b8f481132bf3767696f517ee74,Shuhao Zhang (Tony) <tonyzhang19900609@gmail.com>,2022-03-02 03:28:16,Create LICENSE
+post,intellistream_alliancedb,5657d94a0afd0e90d8c3ab8cf201c459388925f4,tony <292224750@.com>,2022-03-02 03:43:35,"1. change into time-based window
+2. abstract the join method and creat a STL named AbstractJoinMethod
+3. change the celljoin by extending the AbstractJoinMethod
+4. try handshake join (not work fine yet)"
+post,intellistream_alliancedb,9ccc10b23351aa2e6793e0f5c7bd3dd511d7b050,Shuhao Zhang (Tony) <tonyzhang19900609@gmail.com>,2022-03-02 04:37:43,Create LICENSE (#24)
+post,intellistream_alliancedb,ea385fa267911526f5203bf57215410c1e41aa85,tony <292224750@.com>,2022-03-02 07:27:33,1. Add some doxgen template
+post,intellistream_alliancedb,979048c4562229154e27216a8d96523a9e3b7bbb,tony <292224750@.com>,2022-03-02 07:29:05,1. Add some doxgen template
+post,intellistream_alliancedb,02c2c6cbc2ceb2520a9881eb502c1c2184c01cb3,tony <292224750@.com>,2022-03-03 01:26:10,1. Add some doxgen template
+post,intellistream_alliancedb,c3c3fbf9a4c40c0629e367694266b65aabda899c,tony <292224750@.com>,2022-03-03 02:08:11,1. Add some doxgen template
+post,intellistream_alliancedb,3d89a1a770c1c9919fa1076aa13e8a24ea8b687c,tony <292224750@.com>,2022-03-03 02:09:32,1. Change the readme.md
+post,intellistream_alliancedb,be51da44823eaf17cd3414001d9277d470302ef1,tony <292224750@.com>,2022-03-03 02:10:08,1. Change the readme.md
+post,intellistream_alliancedb,526643c803d8c1be5b08f960624d7fa7ced889f2,tony <292224750@.com>,2022-03-03 02:10:59,1. Change the readme.md
+pre,yesint_pteros,04c867c47c38f8ba259f5f2e10c36de7bf039718,Semen Yesykevskyy <yesint4@yahoo.com>,2023-09-04 12:21:51,Forced gromacs without mpi
+pre,yesint_pteros,5bc899feb7afcd88b54d3793db609d19c11c668c,Semen Yesykevskyy <yesint4@yahoo.com>,2023-08-31 13:40:39,Merge branch 'main' of https://github.com/yesint/pteros into main
+pre,yesint_pteros,a6f22470e6e32b3ee395efbee012086a79f1be6e,Semen Yesykevskyy <yesint4@yahoo.com>,2023-08-31 13:40:36,Minor formatting and typo corrections
+pre,yesint_pteros,228f6173236728d809024f0ab1ff49d47bccfae3,Semen Yesylevskyy <yesint4@yahoo.com>,2023-08-14 17:48:51,Merge branch 'main' of https://github.com/yesint/pteros
+pre,yesint_pteros,b22bcb3960733f14e9965cbb0116c1a59e14abc1,Semen Yesylevskyy <yesint4@yahoo.com>,2023-08-14 17:46:21,Added lib64/pteros to pterosrc
+pre,yesint_pteros,1ab5ae86d6ffcb16d1b98d9f4d72cddc7bd84f63,Semen Yesylevskyy <yesint4@yahoo.com>,2023-08-03 11:23:51,Symplified JumpRemover interface
+pre,yesint_pteros,f36270ff9c3cef62dc82b2792fa111b8ef268300,Semen Yesylevskyy <yesint4@yahoo.com>,2023-07-20 13:40:35,"Dropped argparse dependence.
+So far there is no way to migrate to argparse. Need to rethink the way
+how multiple tasks are defined."
+pre,yesint_pteros,9907e87deda92d110c46f7d54db174608cc22676,Semen Yesylevskyy <yesint4@yahoo.com>,2023-07-18 10:50:36,"System dependences are now handled by CPM
+Custom flags TRY_SYSTEM_* are removed."
+pre,yesint_pteros,860cf5822479806dbc6e5f84c8e5f6d92df4a5b9,Semen Yesylevskyy <yesint4@yahoo.com>,2023-07-18 07:52:28,Merge branch 'refs/heads/packageproject'
+pre,yesint_pteros,35e80237f7019a091b808fa3e0dc9c637779044a,Semen Yesylevskyy <yesint4@yahoo.com>,2023-07-17 11:46:48,Fix for TNG compile definition
+post,yesint_pteros,3a43c92c1e67419cde76e92d12e2a226d5608231,Semen Yesylevskyy <yesint4@yahoo.com>,2024-05-28 09:40:09,"Disabled subset optimization for AND selections due to the obscure bug
+with BY clauses."
+post,yesint_pteros,338f027e147c94f5f5843b626df78334dc13696b,Semen Yesylevskyy <yesint4@yahoo.com>,2024-05-29 09:20:49,Disabled selection AST optimization to fix bugs with AND selections
+post,yesint_pteros,4e28f0feabff03a9e960ae9c98f18d8bcce10ec5,yesint <yesint4@yahoo.com>,2024-09-07 18:11:31,Fixed compilation with clang
+post,yesint_pteros,a34c8a807ae2a888e92d8a322e0b345fba5e8aec,yesint <yesint4@yahoo.com>,2025-03-19 08:17:36,Fixed compilation
+post,yesint_pteros,72fdbf17fa1976649caeec055b45a9c487426ab8,Semen Yesylevskyy <yesint4@yahoo.com>,2025-04-21 12:29:18,"Update README.md
+
+Deprecation notice"
+pre,cvnlab_analyzeprf,a3ac9080cca27251ef9dff2b872fa9f46d659344,Kendrick Kay <kendrick@post.harvard.edu>,2023-03-27 17:18:25,add some helpful comments
+pre,cvnlab_analyzeprf,147d7100dcef291357b8678cc20133fbe4995509,Kendrick Kay <kendrick@post.harvard.edu>,2022-06-24 18:53:11,minor bug fix regarding xval and boot indexing
+pre,cvnlab_analyzeprf,f4a350cc44b3bc5cbbc15e7199e3c93aa1e34c18,Kendrick Kay <kendrick@post.harvard.edu>,2022-06-15 01:19:26,Update README.md
+pre,cvnlab_analyzeprf,6f471367632632a40288499a9a08ddeb343ba5ef,Kendrick Kay <kendrick@post.harvard.edu>,2022-06-15 01:12:31,the case of non-square stimulus preparations was being handled incorrectly; fixed now
+pre,cvnlab_analyzeprf,916374fb1c8f59718e19f51c82ee1d2e505768d0,Kendrick Kay <kendrick@post.harvard.edu>,2022-03-26 15:16:48,implement new option <wantsparse>
+pre,cvnlab_analyzeprf,ee82e74baed882b32876b3ca373d74c8795a223d,Kendrick Kay <kendrick@post.harvard.edu>,2022-03-26 15:16:22,remove the enforcement of full
+pre,cvnlab_analyzeprf,93542e2398bef7fab4540da77181f427a78083e8,Kendrick Kay <kendrick@post.harvard.edu>,2021-12-09 17:52:17,tweak documentation
+pre,cvnlab_analyzeprf,aee7a6110e4c81c85a82cf423449f1034a52a904,Kendrick Kay <kendrick@post.harvard.edu>,2021-12-04 18:26:18,make <seedmode> a required input; implement new option <exptlowerbound> (THIS CHANGES PAST BEHAVIOR)
+pre,cvnlab_analyzeprf,124b8833f16adbb507473cf3464acf898bfa54ab,Kendrick Kay <kendrick@post.harvard.edu>,2021-11-23 01:41:04,slight documentation tweak
+pre,cvnlab_analyzeprf,f9116585bbfc7e245192568324554a2d1d4acd64,Kendrick Kay <kendrick@post.harvard.edu>,2021-11-23 01:28:38,enforce good typicalgain (NaN) for the special 2 and -2 supergrid seed modes
+post,cvnlab_analyzeprf,604fb9a9608a5c26728bc5b9e88b2822247510fd,Kendrick Kay <kendrick@post.harvard.edu>,2025-03-10 14:41:39,fix bug where first run in <m> would propagate its dimensions
+post,cvnlab_analyzeprf,dca6c752f0d28274d7186b8d3515faf8d4d3d7c7,Kendrick Kay <kendrick@post.harvard.edu>,2025-05-21 14:56:47,change implementation to avoid projectionmatrix
+pre,simonfuhrmann_mve,354a652461377939ca136f451ba3271a1c52ee65,Simon Fuhrmann <simonfuhrmann@gmx.de>,2022-04-25 02:35:39,Fix endian code for M1 processors
+pre,simonfuhrmann_mve,b9eba7e26f5c132a74c14cdd06dd1d6c948c374b,Simon Fuhrmann <simonfuhrmann@gmx.de>,2022-03-15 18:28:54,"Update README.md
+
+Remove dead link, move some information from dead website here."
+pre,simonfuhrmann_mve,e62d52849c783c14f87f93fc93f7231fe3b67ba7,Simon Fuhrmann <simonfuhrmann@gmx.de>,2022-01-13 17:27:29,MATH: Fix warning with RowIter
+pre,simonfuhrmann_mve,1e7125c29dd7cddf30ccd1b1853c12db3b3ee7cd,Simon Fuhrmann <simonfuhrmann@gmx.de>,2022-01-13 07:45:40,Fix bug introduced in previous push
+pre,simonfuhrmann_mve,c0e2695a0474836278acaa21ddd694d88965b0ec,Simon Fuhrmann <simonfuhrmann@gmx.de>,2022-01-13 07:24:15,Use int64 for image width/height/channels
+pre,simonfuhrmann_mve,36e351bef3b664bc954a2a87e66e2f3c51d25d40,Simon Fuhrmann <simonfuhrmann@gmx.de>,2022-01-13 05:34:29,MVE: Use default constructors in image_base.h
+pre,simonfuhrmann_mve,94019be45ac71c16d6bb692ca4444929f5d24a0a,Simon Fuhrmann <simonfuhrmann@gmx.de>,2022-01-12 22:05:16,Change deprecated uint32 and uint16 types to _t types
+pre,simonfuhrmann_mve,b679d62c44aebb881db7bc922752d0fc2b5c3cff,Piero Toffanin <pt@masseranolabs.com>,2021-05-19 18:52:32,Check extensions before loading images/headers
+pre,simonfuhrmann_mve,4091231521a0bdff3648ba0bb4c7c0a564e98d00,Simone Gasparini <simone.gasparini@gmail.com>,2021-05-15 18:57:09,[ci] travis for cmake
+pre,simonfuhrmann_mve,3fd07d219b5213390fd7ef9bb889ad3a952933f2,Simone Gasparini <simone.gasparini@gmail.com>,2021-05-15 18:07:37,[ci] travis for cmake
+post,simonfuhrmann_mve,3d18f380aba64dfaf27b4eea93582106f3355a6e,Andre Schulz <andre@exhale.de>,2024-05-09 10:43:31,"SFM: Guard inclusion of SSE headers
+
+Fixes compilation for CPUs that don't support SSE2/3.
+
+Fixes #572"
+post,simonfuhrmann_mve,d9a273a25e504e3ab2e261e97a9d44a7683cfe04,andre-schulz <andre@exhale.de>,2024-05-10 18:18:30,"SFM: Guard inclusion of SSE headers (#573)
+
+Fixes compilation for CPUs that don't support SSE2/3.
+
+Fixes #572"
+post,simonfuhrmann_mve,eae7060231f419a35df3a62ae6b9f045017186b8,Simon Fuhrmann <simonfuhrmann@gmx.de>,2024-08-20 23:04:29,Update README.md (formatting only)
+post,simonfuhrmann_mve,76302a460203c21e1a8f259752db44c91aea1e8b,Simon Fuhrmann <simonfuhrmann@gmx.de>,2024-08-20 23:05:26,Updates to README.md (formatting only)
+post,simonfuhrmann_mve,335bfe42d360a6adc493fe2143e5821bb21fc7ca,Simon Fuhrmann <simonfuhrmann@gmx.de>,2024-08-20 23:29:26,"Rename util/strings.h to util/string_utils.h
+
+This rename prevents an unintended include of util/strings.h from the C library on some system comfigurations. This fixes #569."
+post,simonfuhrmann_mve,db7f8028ce5f59e796ddcb5f1148d14e8a484561,Andre Schulz <andre@exhale.de>,2024-08-23 22:26:20,"Use pkg-config to link against gtest/libjpeg/libpng/libtiff
+
+gtest, libjpeg/libjpeg-turbo, libpng and libtiff provide pkg-config
+files which make compiling and linking against them easier.
+
+This is needed for running CI on macOS with GitHub Actions in a later
+commit."
+post,simonfuhrmann_mve,1c27c2f89fc7e9a95392b9357aa1d8dacc9a6905,Andre Schulz <andre@exhale.de>,2024-08-23 22:26:51,"Silence OpenGL deprecation warnings on macOS
+
+OpenGL on macOS was deprecated in macOS 10.14 [1]. Silence the warnings
+because the OpenGL code won't be replaced anytime soon if at all.
+
+[1] https://developer.apple.com/library/archive/documentation/GraphicsImaging/Conceptual/OpenGL-MacProgGuide/opengl_intro/opengl_intro.html"
+post,simonfuhrmann_mve,3879e448f88f7a02aa97fb225c6672652a934e87,Andre Schulz <andre@exhale.de>,2024-08-23 22:28:05,"Raise C++ version to C++14
+
+GoogleTest requires C++14 since 1.13.0 (see release notes [1]).
+
+This is required for running CI on macOS with GitHub Actions in a
+later commit because Homebrew will install GoogleTest 1.15.2 [2].
+
+[1] https://github.com/google/googletest/releases/tag/v1.13.0
+[2] https://formulae.brew.sh/formula/googletest"
+post,simonfuhrmann_mve,45b00bf4ae32f097c26ba039d111c0509fd79591,Andre Schulz <andre@exhale.de>,2024-08-23 23:03:41,"TESTS: Make TestHaarWaveletsLargerKernel more robust
+
+While setting up GitHub Actions, SurfTest.TestHaarWaveletsLargerKernel
+failed in the following CI environments:
+- clang version 10.0.0-4ubuntu,             Ubuntu 20.04, x86_64
+- Ubuntu clang version 14.0.0-1ubuntu1.1,   Ubuntu 22.04, x86_64
+- Ubuntu clang version 18.1.3 (1ubuntu1),   Ubuntu 24.04, x86_64
+- Apple clang 14.0.0 (clang-1400.0.29.202), macOS 12,     x86_64
+- Apple clang 15.0.0 (clang-1500.0.40.1),   macOS 13,     x86_64
+
+Output of the Ubuntu 20.04 and 22.04 CI runners that failed:
+------------------------------------------------------------
+[ RUN      ] SurfTest.TestHaarWaveletsLargerKernel
+sfm/gtest_surf.cc:151: Failure
+Expected equality of these values:
+  6.0f
+    Which is: 6
+  dy
+    Which is: 6
+[  FAILED  ] SurfTest.TestHaarWaveletsLargerKernel (0 ms)
+
+Output of the Ubuntu 24.04, macOS 12 and 13 CI runners that failed:
+-------------------------------------------------------------------
+[ RUN      ] SurfTest.TestHaarWaveletsLargerKernel
+sfm/gtest_surf.cc:151: Failure
+Expected equality of these values:
+  6.0f
+    Which is: 6
+  dy
+    Which is: 6.00000048
+
+[  FAILED  ] SurfTest.TestHaarWaveletsLargerKernel (0 ms)
+
+Fixed by replacing EXPECT_EQ with EXPECT_FLOAT_EQ which verifies that
+the values are approximately equal within 4 ULPs [1].
+
+[1] https://google.github.io/googletest/reference/assertions.html#floating-point"
+post,simonfuhrmann_mve,3eb318d17406e3add3277e56273117487c352130,Andre Schulz <andre@exhale.de>,2024-08-23 23:04:56,"UTIL: Add workaround for libc++ for util::strings::convert<double>()
+
+Behavior of parsing doubles from streams is different in LLVM's libc++
+compared to GCC's libstdc++, see [1]. This causes
+StringTest.StringConversionTest to fail when compiling against LLVM's
+libc++:
+
+  [ RUN      ] StringTest.StringConversionTest
+  util/gtest_string.cc:48: Failure
+  Expected equality of these values:
+    10.1234
+    util::string::convert<double>(""10.1234asfd"", false)
+      Which is: 0
+
+  [  FAILED  ] StringTest.StringConversionTest (0 ms)
+
+This mainly affects macOS because it defaults to libc++.
+
+The behavior of libstdc++ is what makes most sense here because
+std::stringstream::operator>>() will call std::strtod() internally
+which will extract 10.1234 from the string.
+
+This is fixed by implementing a workaround for libc++.
+
+[1] https://www.github.com/llvm/llvm-project/issues/18156"
+pre,google_grr,917ef3ee2dea2447417639d398eece022eb16fad,Michael Cohen <scudette@google.com>,2011-08-21 08:24:37,Initial commit.
+post,google_grr,882c6ebb8abaa6d1207098bf349bb73eac620567,Michael Cohen <scudette@gmail.com>,2012-03-21 11:15:56,Preodic sync to google code.
+post,google_grr,13eb6aec07068581ea19d2c659675caa0ea18568,Darren Bilby <dbilby@google.com>,2012-09-28 19:46:36,Add initial cut of documentation.
+post,google_grr,14d7bc915921d72edad0234e67500823a6ab5952,Darren Bilby <dbilby@google.com>,2012-09-30 15:27:02,Add user manual and further documentation.
+post,google_grr,b7983cb664f3a0aa49fa5f00fe9e4c5d3f97cbdc,Jordi Sanchez <parki.san@gmail.com>,2012-10-01 15:32:56,Updated the user guide.
+post,google_grr,911355fb2714cfc18146cb75c52a1e23ae78c88d,Jordi Sanchez <parki.san@gmail.com>,2012-10-01 15:33:21,Added screenshots for the updated user guide.
+post,google_grr,d070527304019a74527185835edeef1c33ed87b0,Jordi Sanchez <parki.san@gmail.com>,2012-10-03 09:25:34,"Updated the user guide with more Flow information.
+Fixed a typo in implementation.txt."
+post,google_grr,5c3816870e02e375c49c23e21f212048960ba1e5,Jordi Sanchez <parki.san@gmail.com>,2012-10-03 09:28:08,Added new screenshots to the user guide.
+post,google_grr,9b468b97e7ec0d14d159d3b0d0e10ebd629b7063,Darren Bilby <dbilby@google.com>,2012-10-04 12:42:02,Update to alpha release.
+post,google_grr,bccdef9456295a5c913b397abf3a4b3ceed4f93e,Darren Bilby <dbilby@google.com>,2012-10-04 12:52:08,Regenerate documentation
+post,google_grr,eb438b8724e575e3d7c7194b3098b88d4ef5b13b,Darren Bilby <dbilby@google.com>,2012-10-21 07:05:28,Bugfixes and improved deployment helpers for release.
+pre,projectcypress_cypress,bfe631d03d6081a997941eeae1ead109d7ea8d2f,David Ross <dave.ross@gmail.com>,2014-04-04 23:38:21,Fix for mongodb error when test_executions collections grows too large. (CYPRESS-337)
+pre,projectcypress_cypress,d01a1317643c89d4eba929480a3c8127ad2fdaba,Samuel Sayer <ssayer@mitre.org>,2014-02-10 19:03:29,make smoking gun and data criteria validations warnings instead of errors
+pre,projectcypress_cypress,d3781a2b507fa0b7b9af8a149295a012d231f4ee,Samuel Sayer <ssayer@mitre.org>,2014-01-09 17:08:40,Merge branch 'develop'
+pre,projectcypress_cypress,c544fc2c7595f9dabc4c8df802d928eaf9f4d791,Samuel Sayer <ssayer@mitre.org>,2014-01-09 15:56:08,bump version number 2.4.2
+pre,projectcypress_cypress,b93c85dcce482ca39ec7ff678e25f7ce2546b456,Rob Dingwell <bobd@mitre.org>,2014-01-07 21:47:30,updating data criteira test to be an error istead of a warnoing
+pre,projectcypress_cypress,ae4d3426f504299cc22723684c0f5323fc357fcb,Samuel Sayer <samuel.sayer@gmail.com>,2013-12-12 14:21:42,"Merge pull request #41 from ssayer/develop
+
+bump version number"
+pre,projectcypress_cypress,0f98ece9bdf673e2511878cb525c7ec8b3fc8165,Sayer <ssayer@mm170163-pc.mitre.org>,2013-12-12 14:16:46,bump version number
+pre,projectcypress_cypress,1271a25759795ed5baa7353cd7c8e73039e11e57,Rob Dingwell <bobd@mitre.org>,2013-12-09 17:01:26,merging from develop
+pre,projectcypress_cypress,c0efdb935b19dc2a58b55175a7495a1480f020b7,Rob Dingwell <bobd@mitre.org>,2013-12-05 17:01:23,rolling back smoking gun functionality to 2.3 version
+pre,projectcypress_cypress,590603f934137d267d6d01c17baa4e5b83856c79,Rob Dingwell <bobd@mitre.org>,2013-12-02 13:53:10,removing pry-debugger to try and make travis happy
+post,projectcypress_cypress,1d89e7fcefb7db61fe18185d38515c0fb9229ecc,Michael O'Keefe <mokeefe@mitre.org>,2014-07-02 13:38:13,Made a bunch of minor spelling corrections in the test suite
+post,projectcypress_cypress,e242608d0c663c77d59f3ca13319ce095ea20f85,Michael O'Keefe <mokeefe@mitre.org>,2014-07-07 18:31:40,Added fragment caching for patient index and show actions
+post,projectcypress_cypress,e7e53d69d10ed43954b678fb6538690a655a44b0,Michael O'Keefe <mokeefe@mitre.org>,2014-07-10 12:36:42,Updated verbiage in smoking_gun_validator to be grammatically more precise
+post,projectcypress_cypress,a01103f05727f56fa389b3b27515a0f0064c4118,Michael O'Keefe <mokeefe@mitre.org>,2014-07-10 12:51:23,Added an encoding coercion from ASCII-8bit to UTF-8 for filenames
+post,projectcypress_cypress,81be08de8e0ee39c07309cda8c7c763c657cd60c,Samuel Sayer <samuel.sayer@gmail.com>,2014-07-10 13:24:22,"Merge pull request #48 from okeefm/non_ascii_chars
+
+Added an encoding coercion from ASCII-8bit to UTF-8 for filenames"
+post,projectcypress_cypress,1ab9a9c07ca015400bcbc2abcc5463b55bc88ac0,Samuel Sayer <samuel.sayer@gmail.com>,2014-07-10 14:27:53,"Merge pull request #46 from okeefm/fragment_caching
+
+Added fragment caching for patient index and show actions"
+post,projectcypress_cypress,248f501dfb3763f2fcbd705c64ed8d5b0552bbd2,Michael O'Keefe <mokeefe@mitre.org>,2014-07-10 18:09:31,"Created a test for the uploading of files with non-ascii characters, along with some necessary fixtures"
+post,projectcypress_cypress,610cb8259f4a359206ee3216bdad69d50a6b634b,Michael O'Keefe <mokeefe@mitre.org>,2014-07-11 12:33:50,Updated travis to Rails 2.1.2
+post,projectcypress_cypress,12af11eb031190b54968b8f406e96e25f2e744a0,Samuel Sayer <ssayer@mitre.org>,2014-07-17 12:53:56,make smoking gun and data criteria validations warnings instead of errors
+post,projectcypress_cypress,9f00ead8e9a1751ba0d91a684fbd34d6137fde43,Michael O'Keefe <mokeefe@mitre.org>,2014-07-17 12:55:50,"Updated a number of necessary config files for changes to environments, mongoid and others"
+pre,hyperhdg_hyperhdg,3a206d4061aa52b6173975ecdac4d2d27d4a932e,AndreasRupp <andreas.rupp@fau.de>,2022-12-02 18:01:01,Fix advection.
+pre,hyperhdg_hyperhdg,6ae56c14e545ea4eab7eefa81f72f449e644c1f9,AndreasRupp <andreas.rupp@fau.de>,2022-11-06 13:31:17,Add badge to manuscript.
+pre,hyperhdg_hyperhdg,a44507446a712066ba61bced4dedfd6e882f69e4,AndreasRupp <andreas.rupp@fau.de>,2022-11-06 13:27:13,Add badge to manuscript.
+pre,hyperhdg_hyperhdg,1dcceb1355620141c4e2c0515798221494fb0782,AndreasRupp <andreas.rupp@fau.de>,2022-11-06 13:25:13,Add badge to manuscript.
+pre,hyperhdg_hyperhdg,9e41147607d64df5b04a0cea9ec7f719ab2edb3e,AndreasRupp <andreas.rupp@fau.de>,2022-10-26 13:53:15,Remove hy_config.py
+pre,hyperhdg_hyperhdg,7db0901bf75f1ff8b18f92ace3ad00e3c87d2871,AndreasRupp <andreas.rupp@fau.de>,2022-08-12 16:45:59,Remove redundant OMP libs.
+pre,hyperhdg_hyperhdg,68659097903b89df892c675192cc8d0f19893cd9,AndreasRupp <andreas.rupp@fau.de>,2022-08-12 16:06:44,Update clang-format.
+pre,hyperhdg_hyperhdg,9c9510bb929e489f5034acc5ba2ac69698d4477c,AndreasRupp <andreas.rupp@fau.de>,2022-08-12 16:06:08,"Update doxygen, CMake, and setup scripts."
+pre,hyperhdg_hyperhdg,c1ffce01fcacd81650d442b6b9976a681af503ec,AndreasRupp <andreas.rupp@fau.de>,2022-08-12 15:40:33,Use matrix for everything.
+pre,hyperhdg_hyperhdg,8592ca1f51075134ffb3940f008b59ab6d71ce25,AndreasRupp <andreas.rupp@fau.de>,2022-08-12 15:37:45,Try setting OS as env.
+post,hyperhdg_hyperhdg,b9f06e6541d23b69fb554af11049a160165de8ec,AndreasRupp <andreas.rupp@fau.de>,2024-01-24 12:38:44,More polynomials for movie.
+post,hyperhdg_hyperhdg,7dfdb3a6916a46ecd5b46d65e4f45cdabe215c7b,Andreas Rupp <57216080+AndreasRupp@users.noreply.github.com>,2024-01-24 12:44:49,Updating and formatting for manuscript (#94)
+post,hyperhdg_hyperhdg,d81deda588199b448a1df38682ea922b58030d53,AndreasRupp <andreas.rupp@fau.de>,2024-02-13 13:46:17,Base case added.
+post,hyperhdg_hyperhdg,a71aade8487e995ed114c210dbfc09d036c620e8,AndreasRupp <andreas.rupp@fau.de>,2024-02-13 14:20:02,L shape level 1.
+post,hyperhdg_hyperhdg,5f4fc67616bea82691d22a8af6cb38b37b479324,Ville-Petteri Manninen <Ville-Petteri.Manninen@lut.fi>,2024-02-16 13:28:03,Added files for thinning L-shaped domains
+post,hyperhdg_hyperhdg,977715904f5555d495f2591cc80c1693b434e9f5,AndreasRupp <andreas.rupp@fau.de>,2024-02-17 13:52:36,Turn level into template parameter.
+post,hyperhdg_hyperhdg,864f0bf1523721bbba2266e4857c838ad30272c0,Ville-Petteri Manninen <Ville-Petteri.Manninen@lut.fi>,2024-02-20 13:22:40,"Implemented 2D plus-shaped domains, modified L-shape functions and added generated .geo-files to .gitignore."
+post,hyperhdg_hyperhdg,1365abc2a750f491a3b68ff566c73619fcfe539b,Ville-Petteri Manninen <Ville-Petteri.Manninen@lut.fi>,2024-02-20 14:27:13,Re-formatting test...
+post,hyperhdg_hyperhdg,9543a691420d326f69acb047e9381b125863acdb,AndreasRupp <andreas.rupp@fau.de>,2024-02-22 23:03:31,Add first numerical tests.
+post,hyperhdg_hyperhdg,491ec71db31772a335fa6fc9c74122aae5e3ff7e,AndreasRupp <andreas.rupp@fau.de>,2024-02-24 20:15:59,Build full matrix for fiber network.
+pre,mit-spark_teaser-plusplus,a7f79c70ce82b4ba4d1f1e8e4661c68763a1cc14,Jingnan Shi <jnshi@mit.edu>,2019-06-29 21:33:20,Initial commit
+post,mit-spark_teaser-plusplus,727501f7f2054ca143f84ebbb4c6ecb6be6c455a,Jingnan Shi <jnshi@mit.edu>,2020-01-21 03:45:15,v1.0.0 release
+post,mit-spark_teaser-plusplus,ff5b26f787d5cbb9eb3ebc23f2a2d5fc28dc6a35,Jingnan Shi <jnshi@mit.edu>,2020-01-21 04:10:29,Add MIT license
+post,mit-spark_teaser-plusplus,838d54d1296c29f8d14718edd8f8904ac86330d9,jingnanshi <jnshi@mit.edu>,2020-01-24 04:36:40,Update references
+post,mit-spark_teaser-plusplus,e8ec28a8ee80b1f01959e3d6d57d915cfd3c68d3,jingnanshi <jnshi@mit.edu>,2020-01-24 05:58:33,Update README
+post,mit-spark_teaser-plusplus,65fc12d4324d68570ee126aff84f0bc84217aeb1,jingnanshi <jnshi@mit.edu>,2020-01-24 06:00:21,Fix typo
+post,mit-spark_teaser-plusplus,7b3614c5cb2eb18de5bb5e3b1ae558b9e63b4737,Jingnan Shi <jnshi@mit.edu>,2020-01-24 15:46:42,Fix python binding README & example
+post,mit-spark_teaser-plusplus,93f7dbbc63b81e35af57c9e92ea08607996d9349,Jingnan Shi <jnshi@mit.edu>,2020-01-24 15:58:55,Update references
+post,mit-spark_teaser-plusplus,c59696aa5c4e59d090ab31cd6a4f06698387fc3e,Jingnan Shi <jnshi@mit.edu>,2020-01-24 16:01:35,Minor citation fix
+post,mit-spark_teaser-plusplus,6bb694db5feb4e58c4115a4b6bb7581b9c595b0f,Jingnan Shi <jnshi@mit.edu>,2020-01-24 16:03:57,Fix scaling parameter in python README example
+post,mit-spark_teaser-plusplus,6c3b58349cf6d7024348cac47944e32bdd04f2f6,Jingnan Shi <jnshi@mit.edu>,2020-01-24 17:03:55,Update CMake files to use lowercase for project name
