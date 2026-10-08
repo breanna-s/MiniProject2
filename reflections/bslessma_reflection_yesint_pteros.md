@@ -1,2 +1,3 @@
 # Reflection: yesint_pteros
 
+Pteros has an irregular activity pattern, with activity declining substantially after June 2023. Its longest gap lasted approximately seven months, from October 2023 through April 2024. The reason for this gap is difficult to determine from the commit history alone. The commits following the gap primarily involve bug fixes, compilation issues, and documentation rather than substantial new feature development, suggesting that the project may have shifted toward occasional maintenance. A later deprecation notice also raises questions about the project's longer-term status, but the available evidence does not establish why development slowed or whether the project was deliberately considered complete.

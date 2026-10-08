@@ -1,2 +1,3 @@
 # Reflection: hyperhdg_hyperhdg
 
+HyperHDG has a generally declining activity pattern, although there has been a recent increase in activity following a lengthy period of inactivity. Its longest gap lasted approximately 12 months, from January through December 2023. The reason for this gap is difficult to determine from the commit history alone. However, the first commit after the gap refers to updating and formatting the project for a manuscript, suggesting that renewed work may have been connected to preparing research for publication. Although this pattern is consistent with a project being revisited for research or publication-related reasons, the commit history does not establish why development paused or resumed.
